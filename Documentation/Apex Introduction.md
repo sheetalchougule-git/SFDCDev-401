@@ -10,7 +10,7 @@ Salesforce Apex is a powerful programming language developed specifically for th
 
 Apex has well defined data types and structure to simplify writing code. Apex is **cases insensitive**. 
 
-## Understanding APEX
+## Understanding Apex
 Salesforce platform native functionality provides powerful tools and features to build applications faster and with Low Code automations. 
 
 ### Model
@@ -38,3 +38,10 @@ Some of the distinct features of Apex are -
 * Complex validations to be performed against record data
 * Creating APIs, Web Services, Email services
 * Complex User interfaces cutting across multiple objects and processes and can be supported with Lightning Components, Visualforce etc
+
+  # How Apex Works
+  Apex runs natively on Lightning Platform. It helps developer with early syntax errors at compile time. Code is then saved on server side for further execution. Apex can be invoked then from Buttons, actions, other processes and user interface.
+
+![image](https://github.com/user-attachments/assets/d32c9049-4777-4521-b10e-424d4b391709)
+
+  
